@@ -8,6 +8,6 @@ target 'NYLBluetooth_Example' do
   target 'NYLBluetooth_Tests' do
     inherit! :search_paths
 
-    
+  source 'https://cdn.cocoapods.org/'
   end
 end
